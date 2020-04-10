@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CSE225 CA</string>
+    <string name="crafed_by">Crafed by Bishwajyoti Roy</string>
+    <string name="cse225_ca">CSE225 CA</string>
+    <string name="submitted_by">Bishwajyoti Roy (11810516)</string>
+    <string name="qp2">Question P2</string>
+    <string name="qp5">Question P5</string>
+    <string name="qp4">Question P4</string>
+    <string name="write_here">Write here…</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="write_to_storage">Write to Storage</string>
+    <string name="send_data">Send Data</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+</resources>
